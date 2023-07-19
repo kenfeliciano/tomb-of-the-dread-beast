@@ -1,0 +1,20 @@
+{
+  "name": "tomb-of-the-dread-beast",
+  "private": true,
+  "description": "Tomb of the Dread Beast Interactive Fiction Text Adventure",
+  "version": "0.23.7",
+  "author": "Ken Feliciano <kafeliciano@gmail.com>",
+  "keywords": [
+    "interactive fiction",
+    "text adventure",
+    "game"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kenfeliciano/tomb-of-the-dreadbeast"
+  },
+  "bugs": {
+    "url": "https://github.com/kenfeliciano/tomb-of-the-dreadbeast/issues"
+  }
+}
