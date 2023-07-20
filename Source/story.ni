@@ -121,6 +121,13 @@ Instead of giving the green vial to the sickly kobold:
 Instead of giving the blue vial to the sickly kobold:
 	say "The kobold drinks as much of the liquid as he can. A sour look comes over his face. The dark veins seem darker and he seems to be shaking more. His breath seems uneven. He looks at you sadly, eyes barely open.";
 	now the blue vial is nowhere;
+	
+Persuasion rule for asking well kobold to try going:
+	if location is Kitchen:
+		persuasion succeeds;
+	otherwise:
+		say "The kobold shakes his head and stays put.";
+		persuasion fails.
 
 Chapter 3 - The World
 
