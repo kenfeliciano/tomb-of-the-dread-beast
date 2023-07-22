@@ -564,6 +564,8 @@ Before going somewhere in Altar when lever is switched on:
 Instead of taking the wrapped corpses:
 	say "Best to leave them be."
 
+Instead of going to Grand Tomb the first time, say "Before you step through the doorway, you catch a smell that stops you in your tracks. 'Death is in there!' you think to yourself. Whatever has died in there cannot be saved, but you can SAVE yourself by just turning around and leaving. If you do continue onwards, you have been warned that you may not be able to survive. 'SAVE myself?'" instead.
+
 Grand Tomb is south of Altar. "Stone cauldrons line either side of this room, their fires long since extinguished. At the south end is a raised platform. On that platform is a solitary stone coffin."
 A kobold corpses are here. "Kobold corpses in various states of decay are here." The description is "Some kobolds look freshly dead but others, it seems, have been dead for months." Understand "kobold corpse" and "corpse" as kobold corpses.
 
